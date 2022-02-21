@@ -1,0 +1,35 @@
+{
+  "datasetId": "EO:ECMWF:DAT:SEA_LEVEL_DAILY_GRIDDED_DATA_FOR_GLOBAL_OCEAN_1993_PRESENT",
+  "multiStringSelectValues": [
+    {
+      "name": "variable",
+      "value": [
+        "all"
+      ]
+    },
+    {
+      "name": "year",
+      "value": [
+        "2019"
+      ]
+    },
+    {
+      "name": "month",
+      "value": [
+        "08"
+      ]
+    },
+    {
+      "name": "day",
+      "value": [
+        "15"
+      ]
+    }
+  ],
+  "stringChoiceValues": [
+    {
+      "name": "format",
+      "value": "zip"
+    }
+  ]
+}
