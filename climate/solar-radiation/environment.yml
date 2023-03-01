@@ -1,0 +1,15 @@
+name: wekeo_competition
+channels:
+  - conda-forge
+  - cmts
+dependencies:
+  - conda-forge::python
+  - conda-forge::notebook
+  - conda-forge::xarray
+  - conda-forge::netcdf4
+  - conda-forge::shapely
+  - conda-forge::matplotlib
+  - conda-forge::cartopy
+  - conda-forge::seaborn
+  - conda-forge::plotly
+  - cmts::hda
