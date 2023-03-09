@@ -1,0 +1,21 @@
+name: wekeo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyter
+  - ca-certificates
+  - openssl
+  - ipywidgets
+  - ipyleaflet
+  - pathlib
+  - pandas
+  - geopandas
+  - rasterio
+  - matplotlib
+  - tqdm
+  - filetype
+  - ipympl
+  - certifi
+prefix: /home/gpaolini/miniconda3/envs/wekeo
