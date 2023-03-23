@@ -1,0 +1,35 @@
+# To use:
+#   $ conda env create -f environment.yml
+#   $ conda activate wekeo
+name: wekeo
+dependencies:
+  - python=3.8.6
+  - pip
+  - pip:
+    - scikit-learn
+    - numpy
+    - scipy
+    - matplotlib
+    - pandas
+    - rasterio
+    - hda
+    - sentinelsat
+    - geopandas
+    - folium
+    - zarr
+    - umap-learn
+    - scikit-image
+    - matplotlib
+    - ipywidgets
+    - torch==1.8.1
+    - torchvision==0.9.1
+    - matplotlib
+    - opencv-python
+    - imutils
+    - seaborn
+    - hda
+    - rasterio==1.3.0
+    - sentinelsat
+    - geopandas
+    - folium
+
