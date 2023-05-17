@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+geopandas
+seaborn
+scikit-learn
+netcdf
+cartopy
+regionmask
+pygeos
+statsmodels
